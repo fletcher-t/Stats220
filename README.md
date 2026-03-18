@@ -21,4 +21,4 @@ This is my repo for STATS 220.
 ## Links:
 [No Stress Meme link](https://www.freepik.com/free-vector/simple-vibing-cat-square-meme_58459053.htm#fromView=keyword&page=1&position=0&uuid=c5e18412-bb2a-4cbe-b275-9693029ddead&query=Memes)
 
-[Panda Memes](https://www.boredpanda.com/funny-close-to-home-memes-jokes/)
+[More Memes Here](https://www.boredpanda.com/funny-close-to-home-memes-jokes/)
