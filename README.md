@@ -19,6 +19,6 @@ This is my repo for STATS 220.
 [<img width="740" height="740" alt="image" src="https://github.com/user-attachments/assets/b9d6b986-ab97-4733-a59c-43351a761f1d" />](https://img.freepik.com/free-vector/simple-vibing-cat-square-meme_742173-4493.jpg?semt=ais_hybrid&w=740&q=80)
 
 ## Links:
-[No Stress Meme link]([https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif](https://www.freepik.com/free-vector/simple-vibing-cat-square-meme_58459053.htm#fromView=keyword&page=1&position=0&uuid=d01cd6e5-d50c-44ba-82b6-ffc25d0669e8&query=Memes))
+[No Stress Meme link](https://www.freepik.com/free-vector/simple-vibing-cat-square-meme_58459053.htm#fromView=keyword&page=1&position=0&uuid=c5e18412-bb2a-4cbe-b275-9693029ddead&query=Memes)
 
 [Panda Memes](https://www.boredpanda.com/funny-close-to-home-memes-jokes/)
