@@ -10,11 +10,9 @@ This is my repo for STATS 220.
 
 ## Things I like:
 
-<ol>
-<li> Music 
-<li> Gym 
-<li> Beers
-
+1. First item  
+1. Second item  
+1. Third item  
 
 ## Curent Mood:
 *A meme that captures how I currently feel about my university studies is:*
