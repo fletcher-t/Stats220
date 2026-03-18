@@ -9,12 +9,12 @@ This is my repo for STATS 220.
 - I like **bold** letters.
 
 ## Things I like:
-<
+
 <ol>
 <li> Music 
 <li> Gym 
 <li> Beers
->
+
 
 ## Curent Mood:
 *A meme that captures how I currently feel about my university studies is:*
